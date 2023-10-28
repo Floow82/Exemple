@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) {
         devine(12);
-
+        System.out.println("Au revoir");
     }
 
 
